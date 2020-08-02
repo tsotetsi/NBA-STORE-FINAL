@@ -1,0 +1,39 @@
+.move {
+  margin-left: 30%;
+}
+
+.contain_login{
+  width: 500px;
+}
+
+.contain_signup{
+  width: 500px;
+}
+.hikki {
+  max-height: 25%;
+}
+.move_btn {
+  margin-left: 27%;
+  text-align: center;
+ }
+ .move_btn p{
+   color: white;
+  }
+
+  .card-panel{
+    height: 550px;
+  }
+
+.colour_of_btn {
+  color: white;
+}
+.HH{
+  font-size: large;
+  font-weight: bolder;
+}
+.ii{
+  color: white;
+}
+.KK p{
+  font-family: 'Special Elite', sans-serif;
+}

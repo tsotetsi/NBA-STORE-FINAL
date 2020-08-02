@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://anele123:anele123@nba.b3hkl.mongodb.net/NBA?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
